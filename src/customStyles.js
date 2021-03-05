@@ -1,7 +1,6 @@
 export const HeaderRowStyle = {
 	minWidth: '100px',
 	backgroundColor: 'rgb(230, 230, 230)',
-
 	fontWeight: 500,
 	fontfamily: '"Noto Sans", sans-serif',
 	color: '#444',
@@ -29,6 +28,7 @@ export const RowStyle = {
 	verticalAlign: 'middle',
 	textAlign: 'center',
 	border: 'border: 1px solid rgb(205, 205, 205)',
+	width: "100px"
 };
 
 export const inputStyle = {

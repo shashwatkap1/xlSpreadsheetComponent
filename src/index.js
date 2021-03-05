@@ -5,10 +5,12 @@ import App from './App';
 
 import reportWebVitals from './reportWebVitals';
 import Temp from './temp';
+import MainSheet from "./Main";
+import MathSheet from "./MathSheet";
 
 ReactDOM.render(
 	<React.StrictMode>
-		<App />
+		<MainSheet />
 	</React.StrictMode>,
 	document.getElementById('root')
 );
