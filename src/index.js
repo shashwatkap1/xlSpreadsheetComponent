@@ -1,12 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-
 import reportWebVitals from './reportWebVitals';
-import Temp from './temp';
 import MainSheet from "./Main";
-import MathSheet from "./MathSheet";
 
 ReactDOM.render(
 	<React.StrictMode>
