@@ -60,7 +60,6 @@ export default function MainSheet(props) {
         grid[`${headers[col]}${row}`] = data[row - 1][col]["value"];
       }
     }
-    console.log(grid, '9897checkfuck');
     return grid;
   }
 
